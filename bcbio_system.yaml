@@ -1,0 +1,8 @@
+# local runs
+local:
+  ref: ../testdata/genomes
+resources:
+  default: {cores: 2, memory: 2G}
+  bwa: {cores: 2, memory: 2G}
+  gatk:
+    jvm_opts: [-Xms750m, -Xmx2500m]

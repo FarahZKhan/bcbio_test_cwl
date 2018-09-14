@@ -1,4 +1,4 @@
-# bcbio_test_cwl
+# bcbio_test_cwlprov
 
 This is a test repository from bcbio documentation: 
 https://bcbio-nextgen.readthedocs.io/en/latest/contents/cwl.html#getting-started
